@@ -1,0 +1,7 @@
+C:\Users\emran\source\repos\Design\Design\bin\Debug\FactoryDesign.exe.config
+C:\Users\emran\source\repos\Design\Design\bin\Debug\FactoryDesign.exe
+C:\Users\emran\source\repos\Design\Design\bin\Debug\FactoryDesign.pdb
+C:\Users\emran\source\repos\Design\Design\obj\Debug\FactoryDesign.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\Design\Design\obj\Debug\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\Design\Design\obj\Debug\FactoryDesign.exe
+C:\Users\emran\source\repos\Design\Design\obj\Debug\FactoryDesign.pdb

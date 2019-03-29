@@ -1,0 +1,21 @@
+C:\Users\emran\source\repos\Design\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+C:\Users\emran\source\repos\Design\ObserverDesign\bin\Debug\ObserverDesign.exe
+C:\Users\emran\source\repos\Design\ObserverDesign\bin\Debug\ObserverDesign.pdb
+C:\Users\emran\source\repos\Design\ObserverDesign\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\Design\ObserverDesign\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\Design\ObserverDesign\obj\Debug\ObserverDesign.exe
+C:\Users\emran\source\repos\Design\ObserverDesign\obj\Debug\ObserverDesign.pdb
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\bin\Debug\ObserverDesign.exe
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\bin\Debug\ObserverDesign.pdb
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\obj\Debug\ObserverDesign.exe
+C:\Users\emran\Downloads\dp_vt19_Emran_Ahmed_f1 (1)\Design\ObserverDesign\obj\Debug\ObserverDesign.pdb
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\bin\Debug\ObserverDesign.exe
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\bin\Debug\ObserverDesign.pdb
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\obj\Debug\ObserverDesign.exe
+C:\Users\emran\Desktop\.NET CMS\Design-Patterns\Assignment\Design\ObserverDesign\obj\Debug\ObserverDesign.pdb

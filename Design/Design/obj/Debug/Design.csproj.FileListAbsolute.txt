@@ -1,0 +1,7 @@
+C:\Users\emran\source\repos\Design\Design\bin\Debug\Design.exe.config
+C:\Users\emran\source\repos\Design\Design\bin\Debug\Design.exe
+C:\Users\emran\source\repos\Design\Design\bin\Debug\Design.pdb
+C:\Users\emran\source\repos\Design\Design\obj\Debug\Design.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\Design\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\Design\Design\obj\Debug\Design.exe
+C:\Users\emran\source\repos\Design\Design\obj\Debug\Design.pdb
